@@ -1,5 +1,7 @@
 ## Welcome to GitHub Games
 
+HELLO!!! 🚀
+
 A project based learning activity for people who are getting started with Git and GitHub.
 
 You can play the game at: https://gh-developers-training-20260323.github.io/github-games-tngx/
